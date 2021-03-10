@@ -1,3 +1,22 @@
-.itemContainer {
-    border: 2px solid black;
+body {
+    height: 100vh;
+    font-size: 2vh;
 }
+#mainDiv {
+    margin-inline: 7vh;
+    margin-top: 7vh;
+}
+#inputBox {
+    font-size: 2vh;
+    height: 4vh;
+    width: 40vh;
+    margin-right: 2vh;
+}
+#inputForm {
+    display: flex;
+    text-decoration-color: gray;
+}
+#addBtn {
+    font-size: 2vh;
+}
+
